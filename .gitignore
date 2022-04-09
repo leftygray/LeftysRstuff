@@ -46,4 +46,10 @@ Thumbs.db
 # Use echo "file" >> .gitignore to append
 #########################################
 
-
+*/
+*.R
+*Rmd
+!Rmarkdown/
+!Rstudio_themes/
+Rstudio_themes/*/
+!Update_LeftysRpkg.R*
