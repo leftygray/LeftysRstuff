@@ -12,7 +12,7 @@ library(roxygen2)
 # Tweaks files in LeftysRpkg/R/ to hearts content
 
 # Set working directory to the package directory
-# Work: setwd("C:/Users/rgray/OneDrive - UNSW/R/LeftysRpkg")
+# Work: setwd("C:/Users/rgray/OneDrive - UNSW/R/LeftysRpkg") 
 # Home: setwd("C:/Users/lefty/Documents/R/LeftysRpkg")
 
 # Update documentation
