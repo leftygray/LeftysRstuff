@@ -352,7 +352,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 .rstudio-themes-flat .popupMiddleCenter,
 .rstudio-themes-flat .menuPopupMiddleCenter,
 .rstudio-themes-flat .suggestPopupMiddleCenter {
-  background: #f8f8f2 !important;
+  background: #252631 !important;
   color: #f8f8f2 !important;
 }
 
@@ -372,7 +372,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .popupContent {
-  background: #f8f8f2;
+  background: #252631;
   color: #f8f8f2;
   border-color: #252631;
 }
@@ -392,7 +392,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .gwt-PopupPanel .popupContent table {
-  background: #f8f8f2;
+  background: #252631;
   border: 0;
 }
 
